@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🤖 Advancing in AI by experimenting with deep learning and generative AI solutions.<br>🤝 Open to collaboration on research, projects, and competitions.<br>🌱 Current focus : Computer vision, NLP, Generative models (GANs, diffusion models, transformers)<br>🛠️ Tools : Python, PyTorch, TensorFlow, Hugging Face, scikit-learn, Pandas, NumPy.<br>📚 Learning goals: Master model interpretability and reproducible AI workflows.<br>🔬 Creative Experiments : I create and edit content while experimenting with innovative projects.<br>⚡ Fun fact: I enjoy exploring new tech, gaming, and watching anime.
+🤖 Advancing in AI by experimenting with deep learning and generative AI solutions.<br>🤝 Open to collaboration on research, projects, and competitions.<br>🌱 **Current focus :** Computer vision, NLP, Generative models (GANs, diffusion models, transformers)<br>🛠️ **Tools :** Python, PyTorch, TensorFlow, Hugging Face, scikit-learn, Pandas, NumPy.<br>📚 **Learning goals:** Master model interpretability and reproducible AI workflows.<br>🔬 **Creative Experiments :** I create and edit content while experimenting with innovative projects.<br>⚡ **Fun fact:** I enjoy exploring new tech, gaming, and watching anime.
 
 
 ## 🌐 Socials:
